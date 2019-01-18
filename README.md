@@ -1,5 +1,11 @@
 # nodejs-login-passport-mysql
 
+
+## File
+```
+-app.js : import module , config module, dll
+-Router/index.js : passport serialize dan deserialize
+
 ## Database Scema 
 ```
 Database : db_login
