@@ -1,6 +1,6 @@
 # nodejs-login-passport-mysql
 
-##Database Scema 
+## Database Scema 
 ```
 Database : db_login
 
